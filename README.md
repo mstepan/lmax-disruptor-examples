@@ -1,8 +1,10 @@
 # LMAX disruptor examples with java 17
 
 For more details check:
-[https://itnext.io/understanding-the-lmax-disruptor-caaaa2721496](Understanding the LMAX Disruptor)
-[https://lmax-exchange.github.io/disruptor/user-guide/index.html](LMAX Disruptor User Guide)
+
+[Understanding the LMAX Disruptor](https://itnext.io/understanding-the-lmax-disruptor-caaaa2721496)
+
+[LMAX Disruptor User Guide](https://lmax-exchange.github.io/disruptor/user-guide/index.html)  
 
 ## Build & run
 
